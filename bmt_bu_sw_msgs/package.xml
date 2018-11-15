@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>bmt_bu_sw_msgs</name>
+  <version>0.0.0</version>
+  <description>The bmt_bu_sw_msgs package</description>
+
+  <maintainer email="pi@todo.todo">pi</maintainer>
+
+
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_export_depend>std_msgs</build_export_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
